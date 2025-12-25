@@ -1,6 +1,5 @@
 # Smart Waste Bin Network  
 ### Virtual IoT Design Challenge – Smart City Living Lab, IIITH
-## Docx: https://docs.google.com/document/d/1W3mXo3tTNRcSszyquT2uGkihmYHXr1z8sBH2YB3sLqc/edit?usp=sharing
 
 ## Project Overview
 Urban waste management systems often suffer from inefficient collection schedules, leading to overflowing bins in some areas and unnecessary trips in others. This project proposes and demonstrates a **Smart Waste Bin Monitoring and Collection Optimization System** using IoT technologies to monitor bin fill levels in real time and assist authorities in optimizing waste collection routes.
