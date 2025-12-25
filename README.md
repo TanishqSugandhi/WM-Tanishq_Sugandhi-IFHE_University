@@ -75,7 +75,7 @@ The solution leverages **low-power sensors, LoRa communication, and edge intelli
 - Shortest-path / greedy routing for garbage trucks  
 
 ### Pseudocode
-```text
+
 For each bin:
     If fill_level >= 80%:
         Mark as HIGH priority
