@@ -1,6 +1,3 @@
-# WM-Tanishq_Sugandhi-IFHE_University
-Smart Waste Bin Monitoring and Collection Optimization System using Arduino, ESP32, and LoRa for smart city applications (Virtual IoT Design Challenge – IIITH).
-
 # Smart Waste Bin Network  
 ### Virtual IoT Design Challenge – Smart City Living Lab, IIITH
 
@@ -95,7 +92,7 @@ Generate optimized collection route
 
 ---
 
-## 🛡️ Reliability & Fault Handling
+## Reliability & Fault Handling
 - Multiple sensor readings averaged to avoid false values  
 - Software filtering to ignore sudden spikes  
 - Detection of abnormal or constant readings  
@@ -103,7 +100,7 @@ Generate optimized collection route
 
 ---
 
-## 📈 Scalability & Network Design
+## Scalability & Network Design
 - Supports **100+ bins across multiple city zones**  
 - **Star topology:** Bin Nodes → Gateway → Cloud  
 - Easy deployment, low maintenance, and scalable architecture  
@@ -150,5 +147,5 @@ The prototype successfully demonstrates:
 
 ## Author
 **Tanishq Sugandhi**  
-Engineering Student 
-Virtual IoT Design Challenge – Smart City Living Lab, IIITH
+Engineering Student  
+Smart Waste Bin Network – Virtual IoT Design Challenge (IIITH)
